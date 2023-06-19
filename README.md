@@ -1,4 +1,4 @@
-# Venom-alkthrough-Vulnhub-Writeup
+# Venom-walkthrough-Vulnhub-Writeup
 a walk through for venoum machine
 
 hello friends
